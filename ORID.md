@@ -1,0 +1,7 @@
+O: Having experience in utilising Generative AI, be it as a Chatbot, or for project development, prompt engineering and the fundamentals of Gen. AI is not new to me. In today's lecture, I learnt about defining product visions, crafting elevator pitches, developing user personas, and mapping user journeys and how they can be used to faciliate business development.
+
+R: Fascinated
+
+I: Developing a clear product vision and elevator pitch requires deep market insights and understanding user needs. Similarly, creating accurate user personas and detailed user journeys demands continuous refinement and validation. Incorporating AI, especially generative AI, involves understanding various prompt engineering techniques and frameworks like GUIDE (Goal, User, Instruction, Details, Examples) to ensure AI outputs align with user expectations. Although these tasks can be repetitive, they are crucial for delivering a product that resonates with users and stands out in the market. Having never used AI to generate user personas or user journeys, I am curious to explore how AI can enhance these processes and improve the quality of the outputs.
+
+D: To streamline the process of developing product vision, elevator pitch, user personas, user journeys, and AI integration, I plan to create standardized templates and guidelines. These will include reusable frameworks and best practices for prompt engineering, ensuring consistency and efficiency across different projects while minimizing repetitive adjustments.
